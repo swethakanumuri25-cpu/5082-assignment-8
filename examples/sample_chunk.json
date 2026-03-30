@@ -1,0 +1,11 @@
+{
+  "chunk_text": "Long Short-Term Memory networks solve the vanishing gradient problem in sequence modeling by introducing a memory cell and gates. The forget gate decides what to discard, the input gate decides what to write, and the output gate decides what to expose as hidden state.",
+  "metadata": {
+    "topic": "RNN",
+    "difficulty": "intermediate",
+    "type": "concept_explanation",
+    "source": "rnn_intermediate.md",
+    "related_topics": ["lstm", "vanishing_gradient", "sequence_modeling"],
+    "is_bonus": false
+  }
+}
